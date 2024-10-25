@@ -1,7 +1,6 @@
 ## Me chamo Álvaro 👋
 - 🔭 Graduação em Análise e Desenvolvimento de Sistemas (Cursando o 2º período)
 - 🌱 Focando em expandir meus conhecimentos sem parar
--->
 <div>
   <a href="https://github.com/alvaroduda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroduda&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
