@@ -1,5 +1,5 @@
 ## Me chamo Álvaro 👋
-- 🔭 Graduação em Análise e Desenvolvimento de Sistemas (Cursando o 2º período)
+- 🔭 Graduação em Análise e Desenvolvimento de Sistemas (Cursando o 3º período)
 - 🌱 Focando em expandir meus conhecimentos sem parar
 <div>
   <a href="https://github.com/alvaroduda">
