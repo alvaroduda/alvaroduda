@@ -1,6 +1,4 @@
-## Sou um programador que atua tanto no Front-end quanto no Back-end (sou um Full-stack), tenho capacidade e gosto de desenvolver em em qualquer destas áreas, posso tanto trabalhar desde o desenvolvimento web até o desenvolvimento de uma aplicação (seja desktop ou não).
-Eu gosto bastante de atuar com Java (Uso mais para o desenvolvimento Back-end) e lido muito bem com o HTML, CSS e Javascript (Uso mais no Front-end, porém também sei aplicar o JS no Back-end), sei manipular SQL e posso usar em conjunto com quaisquer destas linguagens.
-Não tenho problema para aprender outras linguagens e novas ferramentas já que tenho uma boa base de lógica de programação, sei além de apenas conhecimentos razos das linguagens que citei, sei manipular bem frameworks ou bibliotecas que se façam necessárias para a melhor estrutura do projeto.
+
 <div>
   <a href="https://github.com/alvaroduda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroduda&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
