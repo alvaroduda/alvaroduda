@@ -1,7 +1,6 @@
 <div>
   <a href="https://github.com/alvaroduda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroduda&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroduda&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Álvaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
