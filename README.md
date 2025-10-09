@@ -5,6 +5,8 @@
     <img align="center" alt="Álvaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Álvaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="ÁlvaroTS" height="30" width="40" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000">
+    <img align="center" alt="ÁlvaroDocker" height="30" width="40" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000">
+    
 </div>
   
   ##
