@@ -44,6 +44,16 @@ Da mesma forma, em **projetos freelancers e iniciativas próprias**, mantenho um
 
 ---
 
+## 🎓 Formação & Atividades
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** — Uninassau (Concluído)
+- 👨‍🏫 Líder de Turma
+- 🎤 Palestrante — *Carreira em Tecnologia*
+- ♿ Projeto de Extensão — Inclusão de Pessoas Cegas na Tecnologia
+- 🤖 IA e Hiperautomação com n8n — Treina Recife
+
+---
+
 ## 💼 Experiência Profissional
 
 ### 🏢 Analista e Desenvolvedor de Sistemas | Suporte TI  
@@ -110,41 +120,3 @@ Da mesma forma, em **projetos freelancers e iniciativas próprias**, mantenho um
 `Redes Corporativas` `Windows`  
 `Troubleshooting` `Documentação`
 
----
-
-## 🎓 Formação & Atividades
-
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Uninassau (Concluído)
-- 👨‍🏫 Líder de Turma
-- 🎤 Palestrante — *Carreira em Tecnologia*
-- ♿ Projeto de Extensão — Inclusão de Pessoas Cegas na Tecnologia
-- 🤖 IA e Hiperautomação com n8n — Treina Recife
-
----
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaroduda&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroduda&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Commits em ação
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alvaroduda/alvaroduda/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://linkedin.com/in/alvaroduda  
-- 📧 Email: alvarodudadahoradh@gmail.com
-
----
