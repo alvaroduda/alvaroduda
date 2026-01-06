@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Álvaro Duda</h1>
+<h1 align="center">Olá 👋, eu sou Álvaro</h1>
 <h3 align="center">
 Desenvolvedor Full-Stack • Backend • Automação • Infraestrutura & Suporte de TI
 </h3>
