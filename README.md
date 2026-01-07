@@ -54,43 +54,6 @@ Da mesma forma, em **projetos freelancers e iniciativas próprias**, mantenho um
 
 ---
 
-## 💼 Experiência Profissional
-
-### 🏢 Analista e Desenvolvedor de Sistemas | Suporte TI  
-**Innovatech — Recife/PE**  
-📅 *2025-08 → 2025-12*
-
-- Desenvolvimento de **soluções de automação** (scripts, sistemas web e desktop), reduzindo significativamente o tempo de execução de tarefas do setor de TI.
-- Atuação em **suporte técnico presencial e remoto** para usuários internos e externos.
-- Forte experiência em **SAC técnico**, com foco em comunicação clara, empatia e satisfação do usuário.
-- Gerenciamento, configuração e manutenção de **redes corporativas em ambiente Windows**.
-- Desenvolvimento de **sistema web completo com Spring**, integrando controle de estoque em campo e consulta de suprimentos em uma única plataforma.
-- Criação de sistema avançado para **exploração, análise e mapeamento de bancos de dados complexos**, com mecanismos inteligentes de descoberta.
-- Desenvolvimento de **aplicativo desktop com suporte a consultas offline**.
-- Criação de **suíte de scripts batch** para automação da configuração de redes corporativas.
-
----
-
-### 🌐 Fundador e Desenvolvedor Full-Stack  
-**Nowly Network**  
-📅 *2021-11 → 2024-09*
-
-- Fundador e líder técnico de uma equipe com **20 pessoas**.
-- Desenvolvimento completo do projeto principal em **Java**, garantindo estabilidade e performance para mais de **100 usuários/dia**.
-- Configuração de **infraestrutura em VPS**, domínio, proteção DDoS e camuflagem de DNS.
-- Criação de **sistemas de pagamento**, websites e conteúdos digitais.
-- Implementação de **sistemas avançados de detecção de trapaças**, incluindo técnicas como *screen sharing detection*.
-
----
-
-### 💻 Desenvolvedor Web (Freelance)
-
-- Desenvolvimento Full-Stack (**React + Node.js**) da plataforma **“Arremesso 5 Mil”**.
-- Integração de pagamentos com **Mercado Pago**.
-- Plataforma lançada para **centenas de alunos**, com retorno extremamente positivo do cliente e lançamento bem-sucedido.
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Backend
