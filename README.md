@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Álvaro</h1>
 <h3 align="center">
-Desenvolvedor Full-Stack • Automação • Infraestrutura & Suporte de TI
+Desenvolvedor Full-Stack • DevOps • Automação • Infraestrutura & Suporte de TI
 </h3>
 
 <p align="center">
