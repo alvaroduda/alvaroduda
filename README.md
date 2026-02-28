@@ -41,19 +41,19 @@ No entanto, fico totalmente à disposição para **explicar as soluções, arqui
 
 ## 💼 Experiência Profissional Recente
 
-- **Desenvolvedor Freelancer | Full Stack** (2026 – Atual)
+- **Desenvolvedor Full Stack** 
   - Desenvolvimento de sistemas web, APIs e automações para diversos nichos.
   - Deploy em VPS, segurança com Cloudflare e foco em performance.
 
-- **Fundador e Desenvolvedor Full Cycle — MeuCraft** (2025 – Atual)
+- **Fundador e Desenvolvedor Full Cycle — MeuCraft** 
   - Desenvolvimento de softwares customizados em Java.
   - Criação de loja virtual e bots de automação em Node.js.
 
-- **Analista e Desenvolvedor de Sistemas — Innovatech** (2025)
+- **Analista e Desenvolvedor de Sistemas — Innovatech** 
   - Sistema de gestão de estoque (Java/Spring Boot) e automação de redes corporativas.
   - Suporte técnico (Service Desk) e redução de tempo operacional.
 
-- **Desenvolvedor Web — Plataforma ABLT-PE** (2025)
+- **Desenvolvedor Web — Plataforma ABLT-PE** 
   - Plataforma educacional "Arremesso 5 Mil" (React + Node.js).
 
 ---
