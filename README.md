@@ -10,22 +10,27 @@ Desenvolvedor Full-Stack • DevOps • Automação • Infraestrutura & Suporte
   <a href="mailto:alvarodudadahoradh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://alvaro-azure.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Full-Stack** com forte foco em **backend, automação e sistemas reais em produção**.  
-Minha trajetória passa por **desenvolvimento de software**, **infraestrutura**, **redes corporativas** e **suporte técnico**, sempre com o objetivo de **resolver problemas reais, otimizar processos e gerar impacto direto no negócio**.
+Analista e Desenvolvedor de Sistemas com **perfil híbrido** atuando em **Desenvolvimento Full Stack, DevOps, Infraestrutura e Operações de TI**.
+Tenho experiência prática no desenvolvimento, automação, deploy e sustentação de sistemas corporativos e ambientes produtivos.
 
-Atuei tanto em **ambientes corporativos** quanto como **fundador e líder técnico**, lidando com sistemas críticos, usuários reais, demandas sob pressão e responsabilidade técnica de ponta a ponta.
+Atuo em todo o ciclo de vida do software (**Full Cycle**), incluindo arquitetura, backend, modelagem de dados, automação operacional e suporte técnico especializado.
+
+📍 **Diferenciais:** Otimização de processos, redução de tempo operacional através de automações e liderança técnica de equipes.
 
 ---
 
 ## ⚠️ Nota sobre minha experiência profissional
 
-Grande parte da minha experiência como desenvolvedor foi adquirida durante meu **estágio e projetos profissionais em casos reais**.  
+Grande parte da minha experiência como desenvolvedor foi adquirida durante meu **estágio e projetos profissionais em casos reais** (como na **Innovatech** e **MeuCraft**).
 Por motivos éticos, **não posso tornar público o código-fonte desses projetos**, pois eles pertencem às empresas com as quais colaborei.
 
 No entanto, fico totalmente à disposição para **explicar as soluções, arquiteturas, decisões técnicas, desafios enfrentados e aprendizados adquiridos** nesses projetos em conversas, entrevistas ou avaliações técnicas.
@@ -34,52 +39,62 @@ No entanto, fico totalmente à disposição para **explicar as soluções, arqui
 
 ---
 
-## 🔎 Validação profissional e feedback
+## 💼 Experiência Profissional Recente
 
-Durante meu estágio na **Innovatech**, meu desempenho técnico, postura profissional e qualidade das entregas foram avaliados de forma **extremamente positiva**, resultando em um **feedback formal classificando meu trabalho como excelente** ao final do período.
+- **Desenvolvedor Freelancer | Full Stack** (2026 – Atual)
+  - Desenvolvimento de sistemas web, APIs e automações para diversos nichos.
+  - Deploy em VPS, segurança com Cloudflare e foco em performance.
 
-Todo o trabalho realizado nesse estágio pode ser **confirmado diretamente com a equipe e liderança da empresa**, tanto em relação ao impacto das soluções desenvolvidas quanto à minha atuação no dia a dia técnico e operacional.
+- **Fundador e Desenvolvedor Full Cycle — MeuCraft** (2025 – Atual)
+  - Desenvolvimento de softwares customizados em Java.
+  - Criação de loja virtual e bots de automação em Node.js.
 
-Da mesma forma, em **projetos freelancers e iniciativas próprias**, mantenho um histórico consistente de **feedbacks positivos**, com clientes e parceiros destacando a qualidade técnica, comprometimento, comunicação e confiabilidade nas entregas.
+- **Analista e Desenvolvedor de Sistemas — Innovatech** (2025)
+  - Sistema de gestão de estoque (Java/Spring Boot) e automação de redes corporativas.
+  - Suporte técnico (Service Desk) e redução de tempo operacional.
+
+- **Desenvolvedor Web — Plataforma ABLT-PE** (2025)
+  - Plataforma educacional "Arremesso 5 Mil" (React + Node.js).
 
 ---
 
-## 🎓 Formação & Atividades
+## 🗣️ Liderança e Contribuição Acadêmica
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Uninassau (Concluído)
-- 👨‍🏫 Líder de Turma
-- 🎤 Palestrante — *Carreira em Tecnologia*
-- ♿ Projeto de Extensão — Inclusão de Pessoas Cegas na Tecnologia
-- 🤖 IA e Hiperautomação com n8n — Treina Recife
+- **Palestrante — UNINASSAU (2026):** Ministrei a palestra “ADS na Prática – Como Estudar, Evoluir e Não Desistir” para alunos ingressantes.
+- **Líder de Turma:** Durante a graduação em Análise e Desenvolvimento de Sistemas.
+- **Projeto Social:** Inclusão de Pessoas Cegas na Tecnologia (Instituto dos Cegos do Recife).
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🎓 Formação Acadêmica
+
+- **Pós-Graduação em Engenharia de Software e Arquitetura de Sistemas** (Em andamento)
+- **Análise e Desenvolvimento de Sistemas** — UNINASSAU (Concluído 2025)
+
+---
+
+## 🛠️ Stack Tecnológica
 
 ### Backend
-`Java` `Spring Boot` `Hibernate` `Jakarta EE`  
-`Python` `Django` `Flask`  
-`Node.js`
+`Java` `Spring Boot` `Node.js` `Python` `Django` `Flask` `Hibernate` `Jakarta EE`
 
 ### Frontend
-`React` `TypeScript` `JavaScript`  
-`HTML5` `CSS3` `Angular`  
-`Tailwind CSS` `ShadcnUI`
+`React` `Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
 
 ### Banco de Dados
-`MySQL` `PostgreSQL` `MongoDB`  
-`Firebase` `SQLite` `H2`  
-`Supabase` `Flyway`
+`PostgreSQL` `MySQL` `MongoDB` `ClickHouse` `Firebase` `SQLite` `H2` `Supabase`
 
-### DevOps & Infra
-`Git` `Docker` `Maven` `Gradle`  
-`VPS` `Deploy` `Nextcloud`
+### DevOps & Infraestrutura
+`Docker` `Git` `GitHub Actions` `VPS Deploy` `Cloudflare` `Maven` `Gradle`
 
-### Automação & APIs
-`n8n` `REST APIs` `Postman` `Swagger`
+### Arquitetura & Integração
+`REST APIs` `Microservices` `Event-Driven` `Apache Kafka` `MQTT` `OpenAPI` `Swagger`
 
-### Suporte & Operação
-`ITIL` `Service Desk` `SLA`  
-`Redes Corporativas` `Windows`  
-`Troubleshooting` `Documentação`
+### Automação & Operações
+`n8n` `Python Scripting` `Power BI` `ITIL` `Service Desk` `Gestão de Incidentes`
 
+---
+
+<p align="center">
+  <i>"Transformando problemas complexos em soluções eficientes através da tecnologia."</i>
+</p>
